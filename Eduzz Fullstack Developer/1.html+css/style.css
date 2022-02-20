@@ -1,0 +1,67 @@
+body{
+    background: antiquewhite;
+    max-width: 950px;
+    margin: auto;
+}
+
+#title{
+    color: rgb(0, 0, 0);
+    font-family: Tahoma;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.subtitle{
+    color: rgb(54, 54, 54);
+    font-family: Helvetica;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.post_title{
+    color: rgb(50, 50, 50);
+    font-family: Garamond;
+    font-size: 18px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.post_content{
+    color: rgb(255, 59, 59);
+    font-family: Courier New;
+    font-size: 16px;
+    margin: 0;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.link{
+    color:rgb(156, 86, 86);
+    font-style: italic;
+}
+
+.link_img{
+    width: 5%;
+    margin: 0;
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.post{
+    background: white;
+    padding: 10px;
+    /*px px = sup e inf, esq e dir
+      px px px px = sup, dir, inf, esq*/
+    border: 2px dotted green;
+    /*solid, dotted, dashed
+      border-(top) (right) (bottom) (left)*/
+    border-radius: 10px;
+    margin: 10px;
+}
