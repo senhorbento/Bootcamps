@@ -1,5 +1,5 @@
 # Bootcamps
-Diretorios criados aparti de bootcamps
+Diretórios criados a partir de bootcamps.
 
 ### Bootcamp Eduzz  
 
