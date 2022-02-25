@@ -9,6 +9,6 @@ Diretórios criados a partir de bootcamps.
 
   2. Alguns comandos básicos usando Typescript
 
-  3. Um simples site que tem como objetivo criar o jogo Genius totalment eonline
+  3. Um simples site que tem como objetivo criar o jogo Genius totalmente online  
      Movido para: [Aqui!](https://github.com/senhorbento/web-genius)  
      Link de visualização: [Site](https://senhorbento.github.io/web-genius/)  
