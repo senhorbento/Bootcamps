@@ -1,0 +1,4 @@
+npm install -g create-react-app -yarn
+npm install -g react react-dom react-scripts
+
+npx create-react-app
